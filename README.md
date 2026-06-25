@@ -3,6 +3,21 @@
 ## Objective
 To develop a PLC-based metro automation system that controls train movement through three blocks of train section using sequential logic, timers, and signal interlocking.
 
+## Project Files
+
+### Ladder Logic Screenshots
+
+* [Ladder Logic - Page 1](./Ladder_Logic.jpg)
+* [Ladder Logic - Page 2](./Ladder_Logic.2.png)
+
+### Demonstration Video
+
+* [Metro Automation System Part 1 - Ladder Logic Simulation](./Metro_Automation_System_Part_1.mp4)
+
+### Working 
+
+* [Theory & Nomenclature](./Theory%20%26%20Nomenclature.md)
+
 ## Features
 
 -Sequential train movement  
@@ -20,18 +35,9 @@ To develop a PLC-based metro automation system that controls train movement thro
 - RES
 - Compare Logic
 
-## Ladder Logic
 
-* [Ladder Logic - Page 1](./Ladder_Logic.jpg)
-* [Ladder Logic - Page 2](./Ladder_Logic.2.png)
 
-## Simulation of Ladder Logic
 
-* [Metro Automation System Part 1 - Ladder Logic Simulation](./Metro_Automation_System_Part_1.mp4)
-
-## Working 
-
-* [Theory & Nomenclature](./Theory%20%26%20Nomenclature.md)
 
 
   
